@@ -1,0 +1,6 @@
+Notes on whitehatters:
+
+Base networking:
+Firewalls
+ACtive Directory Server-Microsoft product for central user and host management
+Acces
